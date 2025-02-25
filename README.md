@@ -3,6 +3,7 @@
 ## Description
 A web application that displays weather details for four cities (New York ,London ,Las Vegas ,Los Angeles) and allows users to search for a city's weather data using the given search bar present.
 It highlights searched city data for time being by changing its background color to yellow so that user can easily see the weather data related to that city and if the city not found wihtin the weather data table it provides error messages .
+The main thing is that this web page is responsive so that user can get good UI expereince while browsing this in samll devices as well example moblie ,tabs etc.Created in consideration of small widht devices as well. 
 
 ## Features
 - Displays weather data for four predefined cities (New York ,London ,Las Vegas ,Los Angeles).
